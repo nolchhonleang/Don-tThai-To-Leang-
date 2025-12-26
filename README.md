@@ -19,3 +19,6 @@ A camera-controlled endless runner game powered by computer vision.
 ## Credits
 *   **Developer**: Nol Chhonleang
 *   **Assets**: All graphics and sounds are procedurally generated or standard CSS/SVG.
+<img width="1401" height="706" alt="image" src="https://github.com/user-attachments/assets/881eb3d2-afc7-4f84-bdc7-db663688ce32" />
+<img width="1405" height="702" alt="image" src="https://github.com/user-attachments/assets/56608726-e3e1-46c0-81e2-8ad06555e5c5" />
+
